@@ -39,14 +39,14 @@
 ☕ [Site Cafeteria](https://github.com/camilafeldantunes/site-cafeteria)  
 Projeto visual para praticar layout, estilização e responsividade.
 
-🚧 Mais projetos em breve… (spoiler: uma To-Do List está vindo aí! 👀)
+🚧 Mais projetos em breve… (spoiler: um sistema de loja de moto está vindo aí! 👀)
 
 ---
 
 ### 📫 Como falar comigo?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-feldkircher-antunes-84aa90211)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camifeldantunes@gmail.com)
 
 ---
 
