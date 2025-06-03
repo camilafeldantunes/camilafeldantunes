@@ -45,7 +45,7 @@ Projeto visual para praticar layout, estilização e responsividade.
 
 ### 📫 Como falar comigo?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-feldkircher-antunes-84aa90211)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilafeldantunes)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camifeldantunes@gmail.com)
 
 ---
