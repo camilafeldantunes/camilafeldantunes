@@ -1,15 +1,14 @@
-<h1 align="center">👋 Oi, eu sou a Camila!</h1>
+![github-header-image](https://github.com/user-attachments/assets/ef4134e0-969c-447a-a74b-9fd9411c407f)
 
-<p align="center">
+
   💻 Estudante de Ciência da Computação <br>
   🚀 Apaixonada por programação e tecnologia <br>
   🌱 Em busca da primeira oportunidade como dev!
-</p>
+
 
 ---
 
 ### 🧠 Sobre mim
-
 - 🎓 Curso Ciência da Computação (3º semestre)
 - 🛠️ Amo resolver problemas com código e aprender coisas novas
 - 🔍 Focando em desenvolvimento web (HTML, CSS, JavaScript)
@@ -42,6 +41,13 @@ Projeto visual para praticar layout, estilização e responsividade.
 🚧 Mais projetos em breve… (spoiler: um sistema de loja de moto está vindo aí! 👀)
 
 ---
+<div align="center">
+  <a href="https://github.com/camilafeldantunes">
+    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilafeldantunes&show_icons=true&theme=cobalt" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafeldantunes&layout=compact&theme=cobalt" />
+</div>
+
 
 ### 📫 Como falar comigo?
 
@@ -54,4 +60,10 @@ Projeto visual para praticar layout, estilização e responsividade.
   Obrigada por visitar meu perfil! 😊<br>
   Estou sempre aprendendo e buscando evoluir 🚀
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilafeldantunes/camilafeldantunes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camilafeldantunes/camilafeldantunes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/camilafeldantunes/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
