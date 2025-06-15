@@ -1,5 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/ef4134e0-969c-447a-a74b-9fd9411c407f)
-
+<img src="https://github.com/user-attachments/assets/ef4134e0-969c-447a-a74b-9fd9411c407f" />
+<br><br>
 
   💻 Estudante de Ciência da Computação <br>
   🚀 Apaixonada por programação e tecnologia <br>
@@ -38,7 +38,11 @@
 ☕ [Site Cafeteria](https://github.com/camilafeldantunes/site-cafeteria)  
 Projeto visual para praticar layout, estilização e responsividade.
 
-🚧 Mais projetos em breve… (spoiler: um sistema de loja de moto está vindo aí! 👀)
+
+[Sistema de Loja de Moto](https://github.com/camilafeldantunes/sistema-venda-motos)
+
+🚧 Esse projeto está em andamento… (spoiler: um sistema de loja de moto com CRUD completo 👀)
+
 
 ---
 <div align="center">
