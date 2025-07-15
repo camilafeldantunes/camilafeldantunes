@@ -40,8 +40,7 @@ Projeto visual para praticar layout, estilização e responsividade.
 
 
 [Sistema de Loja de Moto](https://github.com/camilafeldantunes/sistema-venda-motos)
-
-🚧 Esse projeto está em andamento… (spoiler: um sistema de loja de moto com CRUD completo 👀)
+Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo
 
 
 ---
