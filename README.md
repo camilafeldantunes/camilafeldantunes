@@ -31,16 +31,12 @@
 ---
 
 ### 📌 Projetos em Destaque
-
-🌐 [Portfólio Pessoal](https://github.com/camilafeldantunes/portfolio)  
-🎨 Página com HTML, CSS e JS para apresentar meus projetos e habilidades.
-
-☕ [Site Cafeteria](https://github.com/camilafeldantunes/site-cafeteria)  
-Projeto visual para praticar layout, estilização e responsividade.
-
-
 [Sistema de Loja de Moto](https://github.com/camilafeldantunes/sistema-venda-motos)
-Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo
+
+Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo.
+
+☕ [API para corredores](https://github.com/camilafeldantunes/site-cafeteria)  
+Em andamento... (spoiler: programa em Java que une a programação com corrida)
 
 
 ---
