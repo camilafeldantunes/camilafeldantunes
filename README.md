@@ -35,7 +35,7 @@
 
 Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo.
 
-☕ [Dashboard de Dados](https://github.com/camilafeldantunes/site-cafeteria)  
+☕ [Dashboard de Dados](https://github.com/camilafeldantunes/Dashboard_Imersao) 
 Este projeto é um dashboard interativo desenvolvido com **Streamlit** para análise de dados salariais na área de dados.
 
 
