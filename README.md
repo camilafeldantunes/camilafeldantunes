@@ -32,10 +32,10 @@
 
 ### 📌 Projetos em Destaque
 [Sistema de Loja de Moto](https://github.com/camilafeldantunes/sistema-venda-motos)
-    Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo.
+   - Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo.
 
 ☕ [Dashboard de Dados](https://github.com/camilafeldantunes/Dashboard_Imersao) 
-    Este projeto é um dashboard interativo desenvolvido com **Streamlit** para análise de dados salariais na área de dados.
+  -  Este projeto é um dashboard interativo desenvolvido com **Streamlit** para análise de dados salariais na área de dados.
 
 
 ---
