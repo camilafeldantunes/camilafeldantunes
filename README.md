@@ -35,8 +35,8 @@
 
 Um sistema de loja de moto que tem conexão com um banco de dados e um CRUD completo.
 
-☕ [API para corredores](https://github.com/camilafeldantunes/site-cafeteria)  
-Em andamento... (spoiler: programa em Java que une a programação com corrida)
+☕ [Dashboard de Dados](https://github.com/camilafeldantunes/site-cafeteria)  
+Este projeto é um dashboard interativo desenvolvido com **Streamlit** para análise de dados salariais na área de dados.
 
 
 ---
