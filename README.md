@@ -9,11 +9,11 @@
 ---
 
 ### 🧠 Sobre mim
-- 🎓 Curso Ciência da Computação (3º semestre)
+- 🎓 Curso Ciência da Computação
 - 🛠️ Amo resolver problemas com código e aprender coisas novas
-- 🔍 Focando em desenvolvimento web (HTML, CSS, JavaScript)
+- 🔍 Focando na área de Data Science
 - 🧩 Curiosa por back-end com Java e Python
-- 🎯 Meu objetivo: conseguir meu primeiro estágio como desenvolvedora 💼
+- 🎯 Meu objetivo: conseguir meu primeiro estágio na área de Dados 💼
 
 ---
 
