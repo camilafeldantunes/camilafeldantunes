@@ -13,7 +13,7 @@
 - 🛠️ Amo resolver problemas com código e aprender coisas novas
 - 🔍 Focando na área de Data Science
 - 🧩 Curiosa por back-end com Java e Python
-- 🎯 Meu objetivo: conseguir meu primeiro estágio na área de Dados 💼
+- 🎯 Meu objetivo: conseguir meu primeiro estágio na área 💼
 
 ---
 
